@@ -2,3 +2,25 @@ body {
   background: #fafafa;
   font-family: Montserrat;
 }
+
+#main-container {
+  margin: 30px auto;
+}
+
+#MobileLogo {
+  width: 100%;
+}
+
+.site-footer {
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
+.loginbox,
+.signup-form {
+  background: #e8e8e836;
+  border: 1px solid #edeeee;
+  border-radius: 15px;
+  padding: 10px;
+  text-align: center;
+}
